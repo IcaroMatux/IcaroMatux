@@ -19,5 +19,5 @@
 <div> 
 <a href="https://www.instagram.com/icaromatux/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-thebadge&logo=instagram&logoColor=white" target="_blank"></a>
 <a href="https://discordapp.com/users/211974985206464513" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"target="_blank"></a> 
-<a href="https://www.linkedin.com/in/ricardohdias" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/icaro-matos-015587290" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
 </div>
